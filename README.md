@@ -8,7 +8,7 @@ Using java swing GUI.
 
 screenshots
 ===========
-
+![alt tag](https://github.com/gauthamzz/Quiz_game/blob/master/login%20(1).PNG)
 ![alt tag](https://github.com/gauthamzz/Quiz_game/blob/master/game%20(1).PNG)
 ![alt tag](https://github.com/gauthamzz/Quiz_game/blob/master/end%20(1).PNG)
-![alt tag](https://github.com/gauthamzz/Quiz_game/blob/master/login%20(1).PNG)
+
